@@ -4,7 +4,7 @@
 Wanderlust is a full-stack web application inspired by Airbnb, built to help users explore and book travel accommodations. This project leverages modern web development tools and follows the Model-View-Controller (MVC) architecture with a RESTful API design. Wanderlust demonstrates comprehensive user authentication, robust authorization, dynamic listings, and a visually engaging UI.
 
 <h1>Technologies Used</h1>
-Frontend: HTML, CSS, JavaScript, Bootstrap
+Frontend: HTML, CSS, JavaScript, Bootstrap<br>
 
 Backend: Node.js, Express.js
 
